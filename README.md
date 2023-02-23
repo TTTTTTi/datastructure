@@ -5,4 +5,7 @@ fudan university datastructure lab
 排序
 
 ## Lab2
+前中后缀表达式
 
+## Lab3
+堆 d-ary heap
